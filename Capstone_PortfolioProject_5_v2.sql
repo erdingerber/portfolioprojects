@@ -1,5 +1,8 @@
----- Change Case Statements "Y" & "N" to Yes and No
+/*
 
+CASE STUDY #5 > Cleaning Data in SQL Queries
+
+*/
 
 
 
